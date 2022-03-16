@@ -1,8 +1,6 @@
  **Olá, eu sou o Diego!** 📚
  
-  <br>
-  
- Atualmente estou desenvolvendo esse site : https://diegosoars.github.io/Site-catalogo-carros/
+ 
  
   <br>
 
